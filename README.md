@@ -5,7 +5,7 @@ Reference paper: Jinsung Yoon, James Jordon, Mihaela van der Schaar, "GAIN: Miss
 
 Paper link: http://proceedings.mlr.press/v80/yoon18a/yoon18a.pdf
 
-Dataset used is: UCI Letter (https://archive.ics.uci.edu/ml/datasets/Letter+Recognition)
+Dataset used: UCI Letter (https://archive.ics.uci.edu/ml/datasets/Letter+Recognition)
 
 Generator and discriminator are fully connected neural networks.
 
